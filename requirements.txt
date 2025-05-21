@@ -2,4 +2,4 @@ pytest
 requests
 flask
 django
-django==1.11.29
+django==4.2.21
